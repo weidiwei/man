@@ -1,0 +1,185 @@
+
+
+
+  .intro .container {
+    text-align: center;
+    padding-top: 120px;
+    padding-bottom: 107px;
+    background-color: rgba(246, 246, 246, 1) !important;
+  }
+
+  .info_objects {
+    justify-content: space-between;
+    padding-top: 40px;
+    padding-bottom: 31px;
+    margin-left: 5px !important;
+  }
+
+  .text_info_helper{
+    margin-top: 25px;
+  }
+
+  .vertical_text{
+    writing-mode: tb-rl;
+    transform:rotate(180deg);
+  }
+
+  .color_text{
+    color: rgba(130, 130, 130, 1);
+  }
+
+  .navbar_helpers {
+    justify-content: space-between !important;
+    background-color: white !important;
+  }
+
+  a {
+    color: black !important;
+    font-size: 18px !important;
+  }
+
+  .a_helpers_color {
+    color: rgba(130, 130, 130, 1) !important;
+  }
+
+  .img_helpers_1 {
+    padding-bottom: 104px;
+  }
+
+  .intro .intro__title {
+    padding-bottom: 17px;
+  }
+
+  .skills .skills__title {
+    padding-top: 91px;
+    padding-bottom: 70px;
+  }
+
+  .skills .container {
+    text-align: center;
+  }
+
+  .skills__text__programs {
+    font-family: 'Gilroy-Bold' !important;
+    padding-top: 24px;
+    padding-bottom: 40px;
+  }
+
+
+
+nav {
+  font-family: 'Gilroy-Bold' !important;
+}
+
+h1 {
+  font-family: 'Gilroy-Bold' !important;
+  font-size: 34px !important;
+}
+
+h5 {
+  font-family: 'Gilroy-Medium' !important;
+}
+
+.vertical__text_style {
+  font-family: 'Gilroy-Bold' !important;
+}
+
+p {
+  font-family: 'Gilroy-Medium' !important;
+  font-size: 18px !important;
+}
+
+.skills__text__programs {
+  font-size: 14px !important;
+  color: rgba(130, 130, 130, 1);
+}
+
+.about_skills {
+  justify-content: space-between !important;
+  padding-top: 83px;
+  padding-bottom: 107px;
+}
+
+.portfolio .container {
+  text-align: center;
+  background-color: rgba(246, 246, 246, 1) !important;
+}
+
+
+.portfolio__title {
+  padding-top: 116px;
+}
+
+.img_helpers_2 {
+  padding-top: 47px;
+  padding-bottom: 45px;
+}
+
+.portfolio__text {
+  text-decoration: underline;
+  padding-bottom: 93px;
+}
+
+.img_helpers_3 {
+  padding-top: 99px;
+  padding-bottom: 45px;
+}
+
+
+.contacts .container {
+  text-align: center;
+}
+
+
+.contacts__title {
+  padding-top: 117px;
+  padding-bottom: 20px;
+}
+
+
+.button__helpers {
+  padding-top: 30px;
+  padding-bottom: 86px;
+}
+
+.icons {
+  justify-content: center !important;
+  padding-top: 87px;
+  padding-bottom: 45px;
+}
+
+.icons_helpers {
+  padding-left: 62px;
+}
+
+.contacts__text2{
+  padding-bottom: 123px;
+  color: rgba(130, 130, 130, 1);
+}
+
+
+
+
+
+
+  @font-face {
+    font-family: 'Gilroy-Bold';
+    src: url('fonts/gilroy-bold.eot'); /* IE 9 Compatibility Mode */
+    src: url('fonts/gilroy-bold.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+      url('fonts/gilroy-bold.woff2') format('woff2'), /* Super Modern Browsers */
+      url('fonts/gilroy-bold.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+      url('fonts/gilroy-bold.ttf') format('truetype'), /* Safari, Android, iOS */
+      url('fonts/gilroy-bold.svg#gilroy-bold') format('svg'); /* Chrome < 4, Legacy iOS */
+  }
+
+  @font-face {
+    font-family: 'Gilroy-Medium';
+    src: url('fonts/gilroy-medium.eot'); /* IE 9 Compatibility Mode */
+    src: url('fonts/gilroy-medium.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+      url('fonts/gilroy-medium.woff2') format('woff2'), /* Super Modern Browsers */
+      url('fonts/gilroy-medium.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+      url('fonts/gilroy-medium.ttf') format('truetype'), /* Safari, Android, iOS */
+      url('fonts/gilroy-medium.svg#gilroy-medium') format('svg'); /* Chrome < 4, Legacy iOS */
+  }
+
+  
